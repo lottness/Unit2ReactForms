@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+input[type="text"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button:hover {
+  background-color: blue;
+}
